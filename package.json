@@ -1,0 +1,26 @@
+{
+  "name": "wxbizpluginplatform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^2.5.1",
+    "express": "^4.14.0",
+    "jssha": "^2.2.0",
+    "node-xml": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/litingjun2015/WXBizPluginPlatform.git"
+  },
+  "author": "tingjunli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/litingjun2015/WXBizPluginPlatform/issues"
+  },
+  "homepage": "https://github.com/litingjun2015/WXBizPluginPlatform#readme"
+}
